@@ -1,0 +1,1 @@
+This project should be used with https://github.com/joe987654321/test_with_gradle
